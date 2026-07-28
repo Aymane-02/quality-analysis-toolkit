@@ -66,7 +66,7 @@ python gage_rr.py           # Measurement System Analysis (Gage R&R)
 
 Or open the notebook for a step-by-step walkthrough with explanations:
 ```bash
-jupyter notebook spc_quality_analysis.ipynb
+jupyter notebook quality_analysis.ipynb
 ```
 
 ## Why control limits ≠ specification limits
